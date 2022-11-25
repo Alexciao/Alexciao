@@ -8,4 +8,4 @@ Java, C# (mostly Unity)
 Python, HTML/CSS, TypeScript
 
 ### 📌 Will Learn:
-C++, Swift
+C, C++, Swift
