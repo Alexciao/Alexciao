@@ -1,17 +1,10 @@
 # 🚀 Alexciao
-Hi! I'm Alex, and I'm learning code.
-## I am **too obsessed with JSON**.
+Hi! I'm Alex, and I'm a student who's learning to code.
 
-### 🗺 Known Languages:
-- Java
+### 🗺 I know:
 - C#
 - Python
 
-### 📚 Currently Learning:
-- HTML/CSS
-- TypeScript
-
-### 📌 Will Learn:
-- C 
-- C++
+  ### 📌 I'd love to learn:
+- Rust
 - Swift
