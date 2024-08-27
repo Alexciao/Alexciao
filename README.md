@@ -16,5 +16,6 @@
 
 ✍️ You are welcome to submit issues or pull requests!
 
-📨 Reach me by mail at `alex` [at] `alexcorazza` [dot] `com` or [click this link](mailto:alex@alexcorazza.com) 
+📨 Reach me by mail at `alex` [at] `alexcorazza` [dot] `com` or [click this link](mailto:alex@alexcorazza.com)!
+
 ☕ If you like what I do, you can [support me](https://ko-fi.com/alexciao)!
