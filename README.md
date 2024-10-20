@@ -6,15 +6,7 @@
 ![](https://raw.githubusercontent.com/Alexciao/Alexciao/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Alexciao/Alexciao/master/generated/languages.svg#gh-light-mode-only)
 
-**🔨 Tools and languages**
-- Python
-- C#
-- Unity
-
-**🧑‍🎓 Learning**
-- C
-
-✍️ You are welcome to submit issues or pull requests!
+[![My Skills](https://skillicons.dev/icons?i=python,cs,unity)](https://alexcorazza.com)
 
 📨 Reach me by mail at `alex` [at] `alexcorazza` [dot] `com` or [click this link](mailto:alex@alexcorazza.com)!
 
