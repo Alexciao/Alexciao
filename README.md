@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/Alexciao/Alexciao/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Alexciao/Alexciao/master/generated/languages.svg#gh-light-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,unity)](https://alexcorazza.com)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,unity,typescript,nextjs)](https://alexcorazza.com)
 
 📨 Reach me by mail at `alex` [at] `alexcorazza` [dot] `com` or [click this link](mailto:alex@alexcorazza.com)!
 
